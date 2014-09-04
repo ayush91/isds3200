@@ -1,0 +1,8 @@
+C:\Users\ayush\documents\visual studio 2013\Projects\DistanceConverter_Ayush\DistanceConverter_Ayush\obj\Debug\DistanceConverter_Ayush.Form1.resources
+C:\Users\ayush\documents\visual studio 2013\Projects\DistanceConverter_Ayush\DistanceConverter_Ayush\obj\Debug\DistanceConverter_Ayush.Properties.Resources.resources
+C:\Users\ayush\documents\visual studio 2013\Projects\DistanceConverter_Ayush\DistanceConverter_Ayush\obj\Debug\DistanceConverter_Ayush.csproj.GenerateResource.Cache
+C:\Users\ayush\documents\visual studio 2013\Projects\DistanceConverter_Ayush\DistanceConverter_Ayush\bin\Debug\DistanceConverter_Ayush.exe.config
+C:\Users\ayush\documents\visual studio 2013\Projects\DistanceConverter_Ayush\DistanceConverter_Ayush\bin\Debug\DistanceConverter_Ayush.exe
+C:\Users\ayush\documents\visual studio 2013\Projects\DistanceConverter_Ayush\DistanceConverter_Ayush\bin\Debug\DistanceConverter_Ayush.pdb
+C:\Users\ayush\documents\visual studio 2013\Projects\DistanceConverter_Ayush\DistanceConverter_Ayush\obj\Debug\DistanceConverter_Ayush.exe
+C:\Users\ayush\documents\visual studio 2013\Projects\DistanceConverter_Ayush\DistanceConverter_Ayush\obj\Debug\DistanceConverter_Ayush.pdb
