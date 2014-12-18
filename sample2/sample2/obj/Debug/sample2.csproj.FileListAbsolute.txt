@@ -1,0 +1,6 @@
+c:\users\ayush\documents\visual studio 2013\Projects\sample2\sample2\bin\Debug\sample2.exe.config
+c:\users\ayush\documents\visual studio 2013\Projects\sample2\sample2\bin\Debug\sample2.exe
+c:\users\ayush\documents\visual studio 2013\Projects\sample2\sample2\bin\Debug\sample2.pdb
+c:\users\ayush\documents\visual studio 2013\Projects\sample2\sample2\obj\Debug\sample2.csprojResolveAssemblyReference.cache
+c:\users\ayush\documents\visual studio 2013\Projects\sample2\sample2\obj\Debug\sample2.exe
+c:\users\ayush\documents\visual studio 2013\Projects\sample2\sample2\obj\Debug\sample2.pdb

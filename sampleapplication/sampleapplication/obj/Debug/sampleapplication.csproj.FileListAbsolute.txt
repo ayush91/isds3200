@@ -1,0 +1,6 @@
+c:\users\ayush\documents\visual studio 2013\Projects\sampleapplication\sampleapplication\bin\Debug\sampleapplication.exe.config
+C:\Users\ayush\documents\visual studio 2013\Projects\sampleapplication\sampleapplication\bin\Debug\sampleapplication.exe
+C:\Users\ayush\documents\visual studio 2013\Projects\sampleapplication\sampleapplication\bin\Debug\sampleapplication.pdb
+C:\Users\ayush\documents\visual studio 2013\Projects\sampleapplication\sampleapplication\obj\Debug\sampleapplication.csprojResolveAssemblyReference.cache
+C:\Users\ayush\documents\visual studio 2013\Projects\sampleapplication\sampleapplication\obj\Debug\sampleapplication.exe
+C:\Users\ayush\documents\visual studio 2013\Projects\sampleapplication\sampleapplication\obj\Debug\sampleapplication.pdb

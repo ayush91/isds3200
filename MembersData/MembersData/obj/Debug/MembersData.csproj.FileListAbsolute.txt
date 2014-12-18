@@ -1,0 +1,11 @@
+c:\users\ayush\documents\visual studio 2013\Projects\MembersData\MembersData\bin\Debug\MembersData.exe.config
+c:\users\ayush\documents\visual studio 2013\Projects\MembersData\MembersData\bin\Debug\karate.mdf
+c:\users\ayush\documents\visual studio 2013\Projects\MembersData\MembersData\bin\Debug\karate_log.ldf
+c:\users\ayush\documents\visual studio 2013\Projects\MembersData\MembersData\bin\Debug\MembersData.exe
+c:\users\ayush\documents\visual studio 2013\Projects\MembersData\MembersData\bin\Debug\MembersData.pdb
+c:\users\ayush\documents\visual studio 2013\Projects\MembersData\MembersData\obj\Debug\MembersData.csprojResolveAssemblyReference.cache
+c:\users\ayush\documents\visual studio 2013\Projects\MembersData\MembersData\obj\Debug\MembersData.Form1.resources
+c:\users\ayush\documents\visual studio 2013\Projects\MembersData\MembersData\obj\Debug\MembersData.Properties.Resources.resources
+c:\users\ayush\documents\visual studio 2013\Projects\MembersData\MembersData\obj\Debug\MembersData.csproj.GenerateResource.Cache
+c:\users\ayush\documents\visual studio 2013\Projects\MembersData\MembersData\obj\Debug\MembersData.exe
+c:\users\ayush\documents\visual studio 2013\Projects\MembersData\MembersData\obj\Debug\MembersData.pdb

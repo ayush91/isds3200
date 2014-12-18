@@ -1,0 +1,9 @@
+c:\users\ayush\documents\visual studio 2013\Projects\sample4\sample4\bin\Debug\sample4.exe.config
+c:\users\ayush\documents\visual studio 2013\Projects\sample4\sample4\obj\Debug\sample4.csprojResolveAssemblyReference.cache
+c:\users\ayush\documents\visual studio 2013\Projects\sample4\sample4\obj\Debug\sample4.Form1.resources
+c:\users\ayush\documents\visual studio 2013\Projects\sample4\sample4\obj\Debug\sample4.Properties.Resources.resources
+c:\users\ayush\documents\visual studio 2013\Projects\sample4\sample4\obj\Debug\sample4.csproj.GenerateResource.Cache
+c:\users\ayush\documents\visual studio 2013\Projects\sample4\sample4\bin\Debug\sample4.exe
+c:\users\ayush\documents\visual studio 2013\Projects\sample4\sample4\bin\Debug\sample4.pdb
+c:\users\ayush\documents\visual studio 2013\Projects\sample4\sample4\obj\Debug\sample4.exe
+c:\users\ayush\documents\visual studio 2013\Projects\sample4\sample4\obj\Debug\sample4.pdb

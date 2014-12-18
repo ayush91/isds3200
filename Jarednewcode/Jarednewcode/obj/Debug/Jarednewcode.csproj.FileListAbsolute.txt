@@ -1,0 +1,9 @@
+c:\users\ayush\documents\visual studio 2013\Projects\Jarednewcode\Jarednewcode\bin\Debug\Jarednewcode.exe.config
+c:\users\ayush\documents\visual studio 2013\Projects\Jarednewcode\Jarednewcode\bin\Debug\Jarednewcode.exe
+c:\users\ayush\documents\visual studio 2013\Projects\Jarednewcode\Jarednewcode\bin\Debug\Jarednewcode.pdb
+c:\users\ayush\documents\visual studio 2013\Projects\Jarednewcode\Jarednewcode\obj\Debug\Jarednewcode.csprojResolveAssemblyReference.cache
+c:\users\ayush\documents\visual studio 2013\Projects\Jarednewcode\Jarednewcode\obj\Debug\Jarednewcode.Form1.resources
+c:\users\ayush\documents\visual studio 2013\Projects\Jarednewcode\Jarednewcode\obj\Debug\Jarednewcode.Properties.Resources.resources
+c:\users\ayush\documents\visual studio 2013\Projects\Jarednewcode\Jarednewcode\obj\Debug\Jarednewcode.csproj.GenerateResource.Cache
+c:\users\ayush\documents\visual studio 2013\Projects\Jarednewcode\Jarednewcode\obj\Debug\Jarednewcode.exe
+c:\users\ayush\documents\visual studio 2013\Projects\Jarednewcode\Jarednewcode\obj\Debug\Jarednewcode.pdb

@@ -1,0 +1,6 @@
+c:\users\ayush\documents\visual studio 2013\Projects\Zhangproject2\Zhangproject2\bin\Debug\Zhangproject2.exe.config
+C:\Users\ayush\documents\visual studio 2013\Projects\Zhangproject2\Zhangproject2\bin\Debug\Zhangproject2.exe
+C:\Users\ayush\documents\visual studio 2013\Projects\Zhangproject2\Zhangproject2\bin\Debug\Zhangproject2.pdb
+C:\Users\ayush\documents\visual studio 2013\Projects\Zhangproject2\Zhangproject2\obj\Debug\Zhangproject2.exe
+C:\Users\ayush\documents\visual studio 2013\Projects\Zhangproject2\Zhangproject2\obj\Debug\Zhangproject2.pdb
+C:\Users\ayush\documents\visual studio 2013\Projects\Zhangproject2\Zhangproject2\obj\Debug\Zhangproject2.csprojResolveAssemblyReference.cache

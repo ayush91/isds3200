@@ -1,0 +1,13 @@
+c:\users\ayush\documents\visual studio 2013\Projects\Learning\Learning\bin\Debug\Learning.exe.config
+c:\users\ayush\documents\visual studio 2013\Projects\Learning\Learning\bin\Debug\Learning.exe
+c:\users\ayush\documents\visual studio 2013\Projects\Learning\Learning\bin\Debug\Learning.pdb
+c:\users\ayush\documents\visual studio 2013\Projects\Learning\Learning\obj\Debug\Learning.csprojResolveAssemblyReference.cache
+c:\users\ayush\documents\visual studio 2013\Projects\Learning\Learning\obj\Debug\MainWindow.baml
+c:\users\ayush\documents\visual studio 2013\Projects\Learning\Learning\obj\Debug\MainWindow.g.cs
+c:\users\ayush\documents\visual studio 2013\Projects\Learning\Learning\obj\Debug\App.g.cs
+c:\users\ayush\documents\visual studio 2013\Projects\Learning\Learning\obj\Debug\Learning_MarkupCompile.cache
+c:\users\ayush\documents\visual studio 2013\Projects\Learning\Learning\obj\Debug\Learning.g.resources
+c:\users\ayush\documents\visual studio 2013\Projects\Learning\Learning\obj\Debug\Learning.Properties.Resources.resources
+c:\users\ayush\documents\visual studio 2013\Projects\Learning\Learning\obj\Debug\Learning.csproj.GenerateResource.Cache
+c:\users\ayush\documents\visual studio 2013\Projects\Learning\Learning\obj\Debug\Learning.exe
+c:\users\ayush\documents\visual studio 2013\Projects\Learning\Learning\obj\Debug\Learning.pdb

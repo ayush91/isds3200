@@ -1,0 +1,6 @@
+C:\Users\ayush\documents\visual studio 2013\Projects\Assignment8\Assignment8\bin\Assignment8.dll.config
+C:\Users\ayush\documents\visual studio 2013\Projects\Assignment8\Assignment8\bin\Assignment8.dll
+C:\Users\ayush\documents\visual studio 2013\Projects\Assignment8\Assignment8\bin\Assignment8.pdb
+C:\Users\ayush\documents\visual studio 2013\Projects\Assignment8\Assignment8\obj\Debug\Assignment8.csprojResolveAssemblyReference.cache
+C:\Users\ayush\documents\visual studio 2013\Projects\Assignment8\Assignment8\obj\Debug\Assignment8.dll
+C:\Users\ayush\documents\visual studio 2013\Projects\Assignment8\Assignment8\obj\Debug\Assignment8.pdb

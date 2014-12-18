@@ -1,0 +1,6 @@
+c:\users\ayush\documents\visual studio 2013\Projects\Studyforisds3200\Studyforisds3200\bin\Studyforisds3200.dll.config
+c:\users\ayush\documents\visual studio 2013\Projects\Studyforisds3200\Studyforisds3200\bin\Studyforisds3200.dll
+c:\users\ayush\documents\visual studio 2013\Projects\Studyforisds3200\Studyforisds3200\bin\Studyforisds3200.pdb
+c:\users\ayush\documents\visual studio 2013\Projects\Studyforisds3200\Studyforisds3200\obj\Debug\Studyforisds3200.csprojResolveAssemblyReference.cache
+c:\users\ayush\documents\visual studio 2013\Projects\Studyforisds3200\Studyforisds3200\obj\Debug\Studyforisds3200.dll
+c:\users\ayush\documents\visual studio 2013\Projects\Studyforisds3200\Studyforisds3200\obj\Debug\Studyforisds3200.pdb

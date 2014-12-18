@@ -1,0 +1,9 @@
+c:\users\ayush\documents\visual studio 2013\Projects\jared2ndcode\jared2ndcode\bin\Debug\jared2ndcode.exe.config
+c:\users\ayush\documents\visual studio 2013\Projects\jared2ndcode\jared2ndcode\bin\Debug\jared2ndcode.exe
+c:\users\ayush\documents\visual studio 2013\Projects\jared2ndcode\jared2ndcode\bin\Debug\jared2ndcode.pdb
+c:\users\ayush\documents\visual studio 2013\Projects\jared2ndcode\jared2ndcode\obj\Debug\jared2ndcode.csprojResolveAssemblyReference.cache
+c:\users\ayush\documents\visual studio 2013\Projects\jared2ndcode\jared2ndcode\obj\Debug\jared2ndcode.Form1.resources
+c:\users\ayush\documents\visual studio 2013\Projects\jared2ndcode\jared2ndcode\obj\Debug\jared2ndcode.Properties.Resources.resources
+c:\users\ayush\documents\visual studio 2013\Projects\jared2ndcode\jared2ndcode\obj\Debug\jared2ndcode.csproj.GenerateResource.Cache
+c:\users\ayush\documents\visual studio 2013\Projects\jared2ndcode\jared2ndcode\obj\Debug\jared2ndcode.exe
+c:\users\ayush\documents\visual studio 2013\Projects\jared2ndcode\jared2ndcode\obj\Debug\jared2ndcode.pdb

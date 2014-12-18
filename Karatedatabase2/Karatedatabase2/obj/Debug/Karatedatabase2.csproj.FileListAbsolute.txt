@@ -1,0 +1,11 @@
+c:\users\ayush\documents\visual studio 2013\Projects\Karatedatabase2\Karatedatabase2\bin\Debug\Karatedatabase2.exe.config
+C:\Users\ayush\documents\visual studio 2013\Projects\Karatedatabase2\Karatedatabase2\bin\Debug\karate.mdf
+C:\Users\ayush\documents\visual studio 2013\Projects\Karatedatabase2\Karatedatabase2\bin\Debug\karate_log.ldf
+C:\Users\ayush\documents\visual studio 2013\Projects\Karatedatabase2\Karatedatabase2\bin\Debug\Karatedatabase2.exe
+C:\Users\ayush\documents\visual studio 2013\Projects\Karatedatabase2\Karatedatabase2\bin\Debug\Karatedatabase2.pdb
+C:\Users\ayush\documents\visual studio 2013\Projects\Karatedatabase2\Karatedatabase2\obj\Debug\Karatedatabase2.csprojResolveAssemblyReference.cache
+C:\Users\ayush\documents\visual studio 2013\Projects\Karatedatabase2\Karatedatabase2\obj\Debug\Karatedatabase2.Form1.resources
+C:\Users\ayush\documents\visual studio 2013\Projects\Karatedatabase2\Karatedatabase2\obj\Debug\Karatedatabase2.Properties.Resources.resources
+C:\Users\ayush\documents\visual studio 2013\Projects\Karatedatabase2\Karatedatabase2\obj\Debug\Karatedatabase2.csproj.GenerateResource.Cache
+C:\Users\ayush\documents\visual studio 2013\Projects\Karatedatabase2\Karatedatabase2\obj\Debug\Karatedatabase2.exe
+C:\Users\ayush\documents\visual studio 2013\Projects\Karatedatabase2\Karatedatabase2\obj\Debug\Karatedatabase2.pdb

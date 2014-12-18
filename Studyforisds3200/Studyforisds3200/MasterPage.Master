@@ -1,0 +1,41 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="Studyforisds3200.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <h1>Bug Track</h1>
+        <br />
+        <br />
+        <br />
+        <asp:Calendar ID="Calendar1" runat="server"></asp:Calendar>
+        <br />
+        <br />
+        <asp:LinkButton ID="ViewAll" runat="server" OnClick="ViewAll_Click">View All</asp:LinkButton>
+&nbsp;&nbsp;&nbsp;
+        <asp:LinkButton ID="CreateNewBug" runat="server" OnClick="CreateNewBug_Click">Create New Bug</asp:LinkButton>
+        <br />
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+        <br />
+        <asp:GridView ID="GridView1" runat="server" AutoGenerateColumns="False" DataSourceID="SqlDataSource1">
+            <Columns>
+                <asp:BoundField DataField="description" HeaderText="description" SortExpression="description" />
+                <asp:BoundField DataField="whenCreated" HeaderText="whenCreated" SortExpression="whenCreated" />
+                <asp:BoundField DataField="fullName" HeaderText="fullName" ReadOnly="True" SortExpression="fullName" />
+            </Columns>
+        </asp:GridView>
+        <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:ConnectionString %>" SelectCommand="SELECT TOP(3) bugEntry.description, bugEntry.whenCreated, FullNames.fullName FROM bugEntry INNER JOIN FullNames ON bugEntry.created_by = FullNames.emp_id ORDER BY bugEntry.whenCreated DESC"></asp:SqlDataSource>
+        <br />
+    </div>
+    </form>
+</body>
+</html>
